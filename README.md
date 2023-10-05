@@ -1,9 +1,15 @@
 # React + Vite + Material TailwindCss 
 
 Steps to use this repository.
-1. Clone the repository using git clone command
+1. Clone the repository
+```
+git clone https://github.com/AKILAN-SIVA/Starter_kit.git
+```
 2. Enter into the directory
-3. Install the dependencies using the command
+```
+cd Starter_kit
+```
+3. Install the dependencies
 ```
 npm install
 ```
