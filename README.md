@@ -13,7 +13,7 @@ cd Starter_kit
 ```
 npm install
 ```
-4. Run the project using the command
+4. Run the project
 ```
 npm run dev
 ```
