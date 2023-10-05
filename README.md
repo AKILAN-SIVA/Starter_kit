@@ -1,4 +1,4 @@
-# React + Vite + Material TailwindCss 
+# React + Vite + Material Tailwind
 
 Steps to use this repository.
 1. Clone the repository
